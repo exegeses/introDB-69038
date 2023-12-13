@@ -43,3 +43,4 @@
     UPDATE destinos  
         SET idRegion = 7  
       WHERE idDestino IN( 5, 6 ); 
+
