@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">prdNombre</Data></Cell>
+			<Cell><Data ss:Type="String">prdPrecio</Data></Cell>
+			<Cell><Data ss:Type="String">mkNombre</Data></Cell>
+			<Cell><Data ss:Type="String">catNombre</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">iPhone 12 Pro (256GB) gold</Data></Cell>
+			<Cell><Data ss:Type="Number">1200.00</Data></Cell>
+			<Cell><Data ss:Type="String">Apple</Data></Cell>
+			<Cell><Data ss:Type="String">Smartphone</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Homepod Mini</Data></Cell>
+			<Cell><Data ss:Type="Number">99.00</Data></Cell>
+			<Cell><Data ss:Type="String">Apple</Data></Cell>
+			<Cell><Data ss:Type="String">Parlantes bluetooth</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">P40 Pro Plus 512GB</Data></Cell>
+			<Cell><Data ss:Type="Number">1250.00</Data></Cell>
+			<Cell><Data ss:Type="String">Huawei</Data></Cell>
+			<Cell><Data ss:Type="String">Smartphone</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Marshall Acton II</Data></Cell>
+			<Cell><Data ss:Type="Number">300.00</Data></Cell>
+			<Cell><Data ss:Type="String">Marshall</Data></Cell>
+			<Cell><Data ss:Type="String">Parlantes bluetooth</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Nikon Z6</Data></Cell>
+			<Cell><Data ss:Type="Number">1650.00</Data></Cell>
+			<Cell><Data ss:Type="String">Nikon</Data></Cell>
+			<Cell><Data ss:Type="String">Cámaras mirorless</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Samsung Class QLED Q80T Series</Data></Cell>
+			<Cell><Data ss:Type="Number">1200.00</Data></Cell>
+			<Cell><Data ss:Type="String">Samsung</Data></Cell>
+			<Cell><Data ss:Type="String">Smart TV</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

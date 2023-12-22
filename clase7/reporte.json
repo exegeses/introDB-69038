@@ -1,0 +1,38 @@
+[
+	{
+		"prdNombre" : "iPhone 12 Pro (256GB) gold",
+		"prdPrecio" : 1200.00,
+		"mkNombre" : "Apple",
+		"catNombre" : "Smartphone"
+	},
+	{
+		"prdNombre" : "Homepod Mini",
+		"prdPrecio" : 99.00,
+		"mkNombre" : "Apple",
+		"catNombre" : "Parlantes bluetooth"
+	},
+	{
+		"prdNombre" : "P40 Pro Plus 512GB",
+		"prdPrecio" : 1250.00,
+		"mkNombre" : "Huawei",
+		"catNombre" : "Smartphone"
+	},
+	{
+		"prdNombre" : "Marshall Acton II",
+		"prdPrecio" : 300.00,
+		"mkNombre" : "Marshall",
+		"catNombre" : "Parlantes bluetooth"
+	},
+	{
+		"prdNombre" : "Nikon Z6",
+		"prdPrecio" : 1650.00,
+		"mkNombre" : "Nikon",
+		"catNombre" : "Cámaras mirorless"
+	},
+	{
+		"prdNombre" : "Samsung Class QLED Q80T Series",
+		"prdPrecio" : 1200.00,
+		"mkNombre" : "Samsung",
+		"catNombre" : "Smart TV"
+	}
+]
